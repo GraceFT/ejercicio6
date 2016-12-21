@@ -1,8 +1,8 @@
 # Ejercicio6
 
-# Objetivo del Squad
+# Mision Dormir
 
-Inicio: Calcular el porcentaje del Squad.
+Inicio: Evaluar cuando dormir.
 
 ##Ingreso de Datos
 - weekday
