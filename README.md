@@ -10,6 +10,8 @@ Inicio: Evaluar cuando dormir.
 - dormir
 
 ##Proceso
+- Obtener valor weekday
+- Obtener valor vacation
 - Si vacation es verdadero
     Mostrar 1//Dormimos
 - Si vacation es verdadero:
